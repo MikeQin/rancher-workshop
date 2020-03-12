@@ -1,0 +1,4 @@
+# credentials
+export USER=qin682
+export PASSWORD=Tnd571101
+export SSL_CERT_FILE=$HOME/certs/single_file_all_certs.pem
